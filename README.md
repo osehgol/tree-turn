@@ -20,3 +20,6 @@ Made as part of Synthesis at ITP (Oct, 2nd 2015), https://github.com/ITPNYU/ICM-
 ## Credits
 
 E Weinberg and E Klein as collaborators
+
+## Documentation
+[Overview and video](http://www.osamasehgol.com/synthesis/)
